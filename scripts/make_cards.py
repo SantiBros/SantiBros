@@ -83,6 +83,29 @@ def langs_svg(langs):
     return card(350, 205, "Top languages", body)
 
 
+def achievements_svg(s, langs):
+    items = [
+        ("🚀", "First release", s["releases"] >= 1),
+        ("📦", "10+ releases", s["releases"] >= 10),
+        ("⬇️", "1k downloads", s["downloads"] >= 1000),
+        ("🔥", "10k downloads", s["downloads"] >= 10000),
+        ("⭐", "25+ stars", s["stars"] >= 25),
+        ("🌟", "100+ stars", s["stars"] >= 100),
+        ("🎮", "2 ports", s["repos"] >= 2),
+        ("🕹️", "5 ports", s["repos"] >= 5),
+    ]
+    body = ""
+    for i, (icon, label, done) in enumerate(items):
+        col, row = i % 4, i // 4
+        x, y = 25 + col * 182, 60 + row * 64
+        fill, stroke, txt = ("#1C1630", ORANGE, TEXT) if done else (BG, LINE, "#6B6478")
+        op = "1" if done else "0.35"
+        body += (f'<rect x="{x}" y="{y}" width="170" height="52" rx="10" fill="{fill}" stroke="{stroke}"/>'
+                 f'<text x="{x + 16}" y="{y + 33}" font-size="20" opacity="{op}">{icon}</text>'
+                 f'<text x="{x + 48}" y="{y + 32}" fill="{txt}" font-size="14" font-weight="700">{escape(label)}</text>')
+    return card(770, 200, "Achievements", body)
+
+
 def main():
     stats, langs = collect()
     os.makedirs(OUT, exist_ok=True)
@@ -90,6 +113,8 @@ def main():
         f.write(stats_svg(stats))
     with open(os.path.join(OUT, "languages.svg"), "w", encoding="utf-8") as f:
         f.write(langs_svg(langs))
+    with open(os.path.join(OUT, "achievements.svg"), "w", encoding="utf-8") as f:
+        f.write(achievements_svg(stats, langs))
     print(stats, sorted(langs.items(), key=lambda kv: -kv[1])[:6])
 
 

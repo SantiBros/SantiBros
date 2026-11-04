@@ -5,7 +5,7 @@
 # Hi, I'm SantiBros 👋
 
 <a href="https://github.com/SantiBros">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=FF6A2B&center=true&vCenter=true&width=600&lines=Homebrew+ports+for+Nintendo+Switch+%F0%9F%8E%AE;NFS+Most+Wanted+(Android)+%F0%9F%8F%8E%EF%B8%8F;Spider-Man+2+(Xbox%2C+2004)+%F0%9F%95%B7%EF%B8%8F;More+ports+on+the+way+%F0%9F%94%9C" alt="Homebrew ports for Nintendo Switch">
+<img src="assets/typing.svg" alt="Homebrew ports for Nintendo Switch">
 </a>
 
 **🎮 I bring classic games to the Nintendo Switch as free, open-source homebrew ports.**
@@ -109,6 +109,8 @@ Reverse engineering, CPU recompilation, graphics translation and a lot of testin
 <img height="165" src="https://raw.githubusercontent.com/SantiBros/SantiBros/output/stats.svg" alt="SantiBros' port stats">
 <img height="165" src="https://raw.githubusercontent.com/SantiBros/SantiBros/output/languages.svg" alt="Top languages">
 
+<img src="https://raw.githubusercontent.com/SantiBros/SantiBros/output/achievements.svg" alt="Achievements" width="770">
+
 <img src="https://streak-stats.demolab.com?user=SantiBros&hide_border=true&background=0E0B1A&ring=FF6A2B&fire=FF6A2B&currStreakLabel=FF6A2B&sideLabels=F5F1EA&currStreakNum=F5F1EA&sideNums=F5F1EA&dates=CFC8D8&stroke=2b2f38" alt="Contribution streak">
 
 </div>
@@ -159,4 +161,4 @@ Si te gustan mis ports, puedes apoyarme en [Ko-fi](https://ko-fi.com/S4I32A0WMU)
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6A2B&height=110&section=footer" width="100%" alt="">
+<img src="assets/footer.svg" width="100%" alt="">
