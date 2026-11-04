@@ -83,7 +83,11 @@ The original Xbox game, swinging through New York on Switch.
 ## 📰 Latest releases
 
 <!-- RELEASES:START -->
-- Loading...
+- 🕷️ **Spider-Man 2 (Xbox)** [v0.3.1](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/tag/v0.3.1): 0.3.1: smoother than 0.3.0, and a 2000s CRT TV <sub>(2026-11-03)</sub>
+- 🕷️ **Spider-Man 2 (Xbox)** [v0.3.0](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/tag/v0.3.0): 0.3.0: install from your phone, 16:9 map fixed, CRT filter <sub>(2026-11-03)</sub>
+- 🏎️ **NFS Most Wanted 2012 (Android)** [v0.3.1](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/tag/v0.3.1): 0.3.1 — Phone effects, anti-aliasing, faster loading, long-session fix <sub>(2026-11-03)</sub>
+- 🕷️ **Spider-Man 2 (Xbox)** [v0.2.3](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/tag/v0.2.3): 0.2.3: saved games load, and the 16:9 freezes fixed <sub>(2026-10-24)</sub>
+- 🕷️ **Spider-Man 2 (Xbox)** [v0.2.2](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/tag/v0.2.2): 0.2.2: the 16:9 slowdown fixed, and suit-coloured 4:3 sides <sub>(2026-10-23)</sub>
 <!-- RELEASES:END -->
 
 <sub>Updated automatically from the ports' GitHub releases.</sub>
