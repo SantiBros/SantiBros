@@ -4,6 +4,10 @@
 
 # Hi, I'm SantiBros 👋
 
+<a href="https://github.com/SantiBros">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=FF6A2B&center=true&vCenter=true&width=600&lines=Homebrew+ports+for+Nintendo+Switch+%F0%9F%8E%AE;NFS+Most+Wanted+(Android)+%F0%9F%8F%8E%EF%B8%8F;Spider-Man+2+(Xbox%2C+2004)+%F0%9F%95%B7%EF%B8%8F;More+ports+on+the+way+%F0%9F%94%9C" alt="Homebrew ports for Nintendo Switch">
+</a>
+
 **🎮 I bring classic games to the Nintendo Switch as free, open-source homebrew ports.**
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_my_ports-FF6A2B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/S4I32A0WMU)
@@ -68,6 +72,14 @@ The original Xbox game, swinging through New York on Switch.
 > You need your own copy of the original games. No game files are included in any of my
 > projects, so please don't ask for them.
 
+## 📋 Port status
+
+| Port | Original platform | Latest version | Status |
+| --- | --- | --- | --- |
+| 🏎️ [NFS Most Wanted 2012](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch) | Android | ![v](https://img.shields.io/github/v/release/SantiBros/NFSMostWanted2012-Android-Switch?style=flat-square&color=FF6A2B&label=) | 🟢 Playable, in active development |
+| 🕷️ [Spider-Man 2](https://github.com/SantiBros/SpiderMan2-2004-NX) | Original Xbox (2004) | ![v](https://img.shields.io/github/v/release/SantiBros/SpiderMan2-2004-NX?style=flat-square&color=FF6A2B&label=) | 🟢 Playable, in active development |
+| ❓ Next port | Coming soon | | 🔜 In the works |
+
 ## 🛠️ What I work with
 
 ![C++](https://img.shields.io/badge/C++-2b2f38?style=flat-square&logo=cplusplus&logoColor=white)
@@ -78,6 +90,23 @@ The original Xbox game, swinging through New York on Switch.
 
 Reverse engineering, CPU recompilation, graphics translation and a lot of testing on real hardware. 🔍
 
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiBros&show_icons=true&hide_border=true&bg_color=0E0B1A&title_color=FF6A2B&icon_color=FF6A2B&text_color=F5F1EA&count_private=true" alt="SantiBros' GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiBros&layout=compact&hide_border=true&bg_color=0E0B1A&title_color=FF6A2B&text_color=F5F1EA" alt="Top languages">
+
+<img src="https://streak-stats.demolab.com?user=SantiBros&hide_border=true&background=0E0B1A&ring=FF6A2B&fire=FF6A2B&currStreakLabel=FF6A2B&sideLabels=F5F1EA&currStreakNum=F5F1EA&sideNums=F5F1EA&dates=CFC8D8&stroke=2b2f38" alt="Contribution streak">
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiBros/SantiBros/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantiBros/SantiBros/output/snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SantiBros/SantiBros/output/snake.svg">
+</picture>
+
 ## 🔜 What's next
 
 More ports are on the way! ⭐ Star and 👀 watch the repos to get notified about new releases.
@@ -86,6 +115,11 @@ More ports are on the way! ⭐ Star and 👀 watch the repos to get notified abo
 
 Open an issue in the port's repo and attach the log file from the port's folder. Reports in
 English or Spanish are welcome.
+
+## 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-SantiBros-181717?style=for-the-badge&logo=github)](https://github.com/SantiBros)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-santibros-FF6A2B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/S4I32A0WMU)
 
 ## ☕ Support
 
@@ -112,3 +146,5 @@ archivos del juego. Si encuentras un error, abre un issue en el repositorio del 
 Si te gustan mis ports, puedes apoyarme en [Ko-fi](https://ko-fi.com/S4I32A0WMU). ¡Gracias! ❤️
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6A2B&height=110&section=footer" width="100%" alt="">
