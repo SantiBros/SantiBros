@@ -94,8 +94,8 @@ Reverse engineering, CPU recompilation, graphics translation and a lot of testin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiBros&show_icons=true&hide_border=true&bg_color=0E0B1A&title_color=FF6A2B&icon_color=FF6A2B&text_color=F5F1EA&count_private=true" alt="SantiBros' GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiBros&layout=compact&hide_border=true&bg_color=0E0B1A&title_color=FF6A2B&text_color=F5F1EA" alt="Top languages">
+<img height="165" src="https://raw.githubusercontent.com/SantiBros/SantiBros/output/stats.svg" alt="SantiBros' port stats">
+<img height="165" src="https://raw.githubusercontent.com/SantiBros/SantiBros/output/languages.svg" alt="Top languages">
 
 <img src="https://streak-stats.demolab.com?user=SantiBros&hide_border=true&background=0E0B1A&ring=FF6A2B&fire=FF6A2B&currStreakLabel=FF6A2B&sideLabels=F5F1EA&currStreakNum=F5F1EA&sideNums=F5F1EA&dates=CFC8D8&stroke=2b2f38" alt="Contribution streak">
 
