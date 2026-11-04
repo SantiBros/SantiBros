@@ -40,8 +40,10 @@ def main():
     lines = []
     for date, emoji, port, tag, title, url in rels[:5]:
         title = title.replace("|", "-").strip()
-        if title.lower().startswith(tag.lower()):
-            title = title[len(tag):].lstrip(" -–—:").strip()
+        for prefix in (tag, tag.lstrip("vV")):
+            if prefix and title.lower().startswith(prefix.lower()):
+                title = title[len(prefix):].lstrip(" -–—:").strip()
+                break
         desc = f": {title}" if title else ""
         lines.append(f"- {emoji} **{port}** [{tag}]({url}){desc} <sub>({date[:10]})</sub>")
     block = START + "\n" + ("\n".join(lines) or "- No releases yet") + "\n" + END
