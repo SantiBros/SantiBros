@@ -80,6 +80,14 @@ The original Xbox game, swinging through New York on Switch.
 | 🕷️ [Spider-Man 2](https://github.com/SantiBros/SpiderMan2-2004-NX) | Original Xbox (2004) | ![v](https://img.shields.io/github/v/release/SantiBros/SpiderMan2-2004-NX?style=flat-square&color=FF6A2B&label=) | 🟢 Playable, in active development |
 | ❓ Next port | Coming soon | | 🔜 In the works |
 
+## 📰 Latest releases
+
+<!-- RELEASES:START -->
+- Loading...
+<!-- RELEASES:END -->
+
+<sub>Updated automatically from the ports' GitHub releases.</sub>
+
 ## 🛠️ What I work with
 
 ![C++](https://img.shields.io/badge/C++-2b2f38?style=flat-square&logo=cplusplus&logoColor=white)
