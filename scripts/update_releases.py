@@ -45,6 +45,8 @@ def main():
             if prefix and title.lower().startswith(prefix.lower()):
                 title = title[len(prefix):].lstrip(" -–—:").strip()
                 break
+        if title.lower().rstrip(" .") .endswith((tag.lower(), tag.lstrip("vV").lower())) and len(title) <= len(tag) + 20:
+            title = ""
         desc = f": {title}" if title else ""
         lines.append(f"- {emoji} **{port}** [{tag}]({url}){desc} <sub>({date[:10]})</sub>")
     block = START + "\n" + ("\n".join(lines) or "- No releases yet") + "\n" + END
