@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="SantiBros: homebrew ports for Nintendo Switch" width="100%">
+<img src="assets/banner.png" alt="SantiBros: homebrew ports and tools for Nintendo Switch" width="100%">
 
 # Hi, I'm SantiBros 👋
 
