@@ -54,7 +54,7 @@ def card(w, h, title, body):
 
 
 def stats_svg(s):
-    rows = [("Ports released", s["repos"]), ("Releases", s["releases"]),
+    rows = [("Projects released", s["repos"]), ("Releases", s["releases"]),
             ("Total downloads", s["downloads"]), ("Stars", s["stars"]), ("Forks", s["forks"])]
     body = ""
     for i, (label, val) in enumerate(rows):
@@ -62,7 +62,7 @@ def stats_svg(s):
         body += (f'<rect x="25" y="{y - 10}" width="8" height="8" rx="2" fill="{ORANGE}"/>'
                  f'<text x="43" y="{y - 1}" fill="{MUTED}" font-size="14">{label}</text>'
                  f'<text x="370" y="{y - 1}" fill="{TEXT}" font-size="14" font-weight="700" text-anchor="end">{fmt(val)}</text>')
-    return card(400, 205, f"{OWNER}' port stats", body)
+    return card(400, 205, f"{OWNER}' project stats", body)
 
 
 def langs_svg(langs):
@@ -91,8 +91,8 @@ def achievements_svg(s, langs):
         ("🔥", "10k downloads", s["downloads"] >= 10000),
         ("⭐", "25+ stars", s["stars"] >= 25),
         ("🌟", "100+ stars", s["stars"] >= 100),
-        ("🎮", "2 ports", s["repos"] >= 2),
-        ("🕹️", "5 ports", s["repos"] >= 5),
+        ("🎮", "3 projects", s["repos"] >= 3),
+        ("🕹️", "5 projects", s["repos"] >= 5),
     ]
     body = ""
     for i, (icon, label, done) in enumerate(items):
