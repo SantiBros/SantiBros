@@ -120,11 +120,11 @@ Install and manage Persona mods **right on the Switch**: no PC, no CriPakTools, 
 ## 📰 Latest releases
 
 <!-- RELEASES:START -->
+- 🃏 **Compendium (Persona mods)** [v0.0.4](https://github.com/SantiBros/Compendium-NX/releases/tag/v0.0.4) <sub>(2026-11-08)</sub>
+- 🃏 **Compendium (Persona mods)** [v0.0.3](https://github.com/SantiBros/Compendium-NX/releases/tag/v0.0.3) <sub>(2026-11-07)</sub>
 - 🃏 **Compendium (Persona mods)** [v0.0.2](https://github.com/SantiBros/Compendium-NX/releases/tag/v0.0.2) <sub>(2026-11-06)</sub>
 - 🃏 **Compendium (Persona mods)** [v0.0.1](https://github.com/SantiBros/Compendium-NX/releases/tag/v0.0.1) <sub>(2026-11-05)</sub>
 - 🕷️ **Spider-Man 2 (Xbox)** [v0.3.1](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/tag/v0.3.1): smoother than 0.3.0, and a 2000s CRT TV <sub>(2026-11-03)</sub>
-- 🕷️ **Spider-Man 2 (Xbox)** [v0.3.0](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/tag/v0.3.0): install from your phone, 16:9 map fixed, CRT filter <sub>(2026-11-03)</sub>
-- 🏎️ **NFS Most Wanted 2012 (Android)** [v0.3.1](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/tag/v0.3.1): Phone effects, anti-aliasing, faster loading, long-session fix <sub>(2026-11-03)</sub>
 <!-- RELEASES:END -->
 
 <sub>Updated automatically from my projects' GitHub releases.</sub>
