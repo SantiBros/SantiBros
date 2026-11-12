@@ -16,6 +16,9 @@
 ![Platform](https://img.shields.io/badge/Platform-Switch_homebrew-2b2f38?style=for-the-badge)
 [![Profile views](https://komarev.com/ghpvc/?username=SantiBros&style=for-the-badge&color=2b2f38&label=Profile+views)](https://github.com/SantiBros)
 
+
+> 🎉 **NFS Most Wanted 2012 (Android) for Switch passed 1,000 downloads!** Thank you to everyone who played, tested and reported bugs. ❤️
+
 </div>
 
 ---
@@ -38,8 +41,11 @@
 
 The Android version of Most Wanted (2012), running on Switch.
 
+🎉 **Over 1,000 downloads. Thank you!**
+
 - 📺 720p handheld, 1080p docked
-- 🎮 Full controller support and optional gyro steering
+- 🎮 Full controller support, optional gyro steering and vibration
+- 🌍 All 11 of the game's languages, and your game's own icon on the Homebrew Menu
 - 📴 Fully offline, with a debug menu for performance settings
 
 **[⬇️ Download](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/latest)** · **[📖 Install guide](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch#how-to-install)**
@@ -85,7 +91,8 @@ The original Xbox game, swinging through New York on Switch.
 Install and manage Persona mods **right on the Switch**: no PC, no CriPakTools, no copying folders by hand.
 
 - 🌐 Browse GameBanana's Persona 5 Royal mods (Switch and PC) on the console
-- 📦 Builds the game's `PATCH1.CPK` on the Switch, and adapts many PC mods
+- 📦 Builds the game's `PATCH1.CPK` on the Switch, and adapts many PC mods (even ones made to be packed on a PC)
+- 🧩 Aemulus packages, exefs patches and loose music files go where the game looks for them
 - 🔀 Load order and conflict warnings, Aemulus packages and other mod formats
 - 📱 Send a mod link from your phone with a QR code
 
@@ -100,7 +107,7 @@ Install and manage Persona mods **right on the Switch**: no PC, no CriPakTools, 
 </tr>
 </table>
 
-<sub>Shown with sample listings in place of GameBanana's.</sub>
+<sub>Shown with sample listings in place of GameBanana's. Still a test version: back up your saves.</sub>
 
 **[⬇️ Download](https://github.com/SantiBros/Compendium-NX/releases)** · **[📖 Install guide](https://github.com/SantiBros/Compendium-NX#how-to-install)** · **[🧪 Help test it](https://github.com/SantiBros/Compendium-NX#help-wanted-testers)**
 
@@ -114,7 +121,7 @@ Install and manage Persona mods **right on the Switch**: no PC, no CriPakTools, 
 | --- | --- | --- | --- |
 | 🏎️ [NFS Most Wanted 2012](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch) | Android | ![v](https://img.shields.io/github/v/release/SantiBros/NFSMostWanted2012-Android-Switch?style=flat-square&color=FF6A2B&label=) | 🟢 Playable, in active development |
 | 🕷️ [Spider-Man 2](https://github.com/SantiBros/SpiderMan2-2004-NX) | Original Xbox (2004) | ![v](https://img.shields.io/github/v/release/SantiBros/SpiderMan2-2004-NX?style=flat-square&color=FF6A2B&label=) | 🟢 Playable, in active development |
-| 🃏 [Compendium](https://github.com/SantiBros/Compendium-NX) | Persona 5 Royal (Switch) mods | ![v](https://img.shields.io/github/v/release/SantiBros/Compendium-NX?include_prereleases&style=flat-square&color=FF6A2B&label=) | 🟡 Testing, mods now install |
+| 🃏 [Compendium](https://github.com/SantiBros/Compendium-NX) | Persona 5 Royal (Switch) mods | ![v](https://img.shields.io/github/v/release/SantiBros/Compendium-NX?include_prereleases&style=flat-square&color=FF6A2B&label=) | 🟡 Testing: most Switch mods on GameBanana install |
 | ❓ Next port | Coming soon | | 🔜 In the works |
 
 ## 📰 Latest releases
@@ -185,6 +192,8 @@ you can support it on Ko-fi. It helps me keep my projects updated and make new o
 <summary><b>🇪🇸 En español</b></summary>
 
 <br>
+
+🎉 ¡El port de NFS Most Wanted 2012 (Android) superó las 1.000 descargas! Gracias a todos los que jugaron, probaron y reportaron errores.
 
 Llevo juegos clásicos a Nintendo Switch como ports homebrew gratuitos y de código abierto:
 
