@@ -66,8 +66,9 @@ The Android version of Most Wanted (2012), running on Switch.
 The original Xbox game, swinging through New York on Switch.
 
 - 📺 480p, 720p and 1080p docked
-- 🖼️ 16:9 widescreen or 4:3 with custom side borders
-- 📳 Vibration and a debug menu
+- 🖼️ 16:9 (wide or close view) or 4:3 with custom side borders, and a CRT filter
+- 🗣️ Voices in another language, and European editions recognised
+- 🔄 **New in 0.4.0:** updates itself from the debug menu, and Switch button layout
 
 **[⬇️ Download](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/latest)** · **[📖 Install guide](https://github.com/SantiBros/SpiderMan2-2004-NX#how-to-install)**
 
