@@ -187,6 +187,16 @@ you can support it on Ko-fi. It helps me keep my projects updated and make new o
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S4I32A0WMU)
 
+## ❤️ Supporters
+
+A huge thank you to everyone who supports my work on Ko-fi. You help keep every port and tool free!
+
+<!-- SUPPORTERS:START -->
+<sub>No supporters yet. Be the first! ☕ Your name will appear here (only if you want it to).</sub>
+<!-- SUPPORTERS:END -->
+
+<sub>Supported me and want your name here, or want it removed? Send me a message on Ko-fi.</sub>
+
 ---
 
 <details>
@@ -209,6 +219,7 @@ Y también hago herramientas para la Switch:
 archivos del juego. Si encuentras un error, abre un issue en el repositorio del proyecto.
 
 Si te gustan mis proyectos, puedes apoyarme en [Ko-fi](https://ko-fi.com/S4I32A0WMU). ¡Gracias! ❤️
+Quienes me apoyan aparecen en la sección **❤️ Supporters** (solo si lo desean).
 
 </details>
 
