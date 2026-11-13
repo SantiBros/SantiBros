@@ -128,11 +128,11 @@ Install and manage Persona mods **right on the Switch**: no PC, no CriPakTools, 
 ## 📰 Latest releases
 
 <!-- RELEASES:START -->
+- 🕷️ **Spider-Man 2 (Xbox)** [v0.4.1](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/tag/v0.4.1): the European French, German and Spanish disc <sub>(2026-11-13)</sub>
 - 🕷️ **Spider-Man 2 (Xbox)** [v0.4.0](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/tag/v0.4.0): updates from the port, voices in another language, European editions, a closer 16:9 <sub>(2026-11-13)</sub>
 - 🏎️ **NFS Most Wanted 2012 (Android)** [v0.3.2](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/tag/v0.3.2): Vibration, every language, your game's icon, docked map fix <sub>(2026-11-09)</sub>
 - 🃏 **Compendium (Persona mods)** [v0.0.4](https://github.com/SantiBros/Compendium-NX/releases/tag/v0.0.4) <sub>(2026-11-08)</sub>
 - 🃏 **Compendium (Persona mods)** [v0.0.3](https://github.com/SantiBros/Compendium-NX/releases/tag/v0.0.3) <sub>(2026-11-07)</sub>
-- 🃏 **Compendium (Persona mods)** [v0.0.2](https://github.com/SantiBros/Compendium-NX/releases/tag/v0.0.2) <sub>(2026-11-06)</sub>
 <!-- RELEASES:END -->
 
 <sub>Updated automatically from my projects' GitHub releases.</sub>
