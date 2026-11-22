@@ -11,7 +11,7 @@
 **🎮 I bring classic games to the Nintendo Switch as free, open-source homebrew ports, and build tools for Switch players.**
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_my_ports-FF6A2B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/S4I32A0WMU)
-![Ports](https://img.shields.io/badge/Ports-2_released-2b2f38?style=for-the-badge)
+![Ports](https://img.shields.io/badge/Ports-3_released-2b2f38?style=for-the-badge)
 ![Tools](https://img.shields.io/badge/Tools-1_in_testing-2b2f38?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Switch_homebrew-2b2f38?style=for-the-badge)
 [![Profile views](https://komarev.com/ghpvc/?username=SantiBros&style=for-the-badge&color=2b2f38&label=Profile+views)](https://github.com/SantiBros)
@@ -67,7 +67,7 @@ The original Xbox game, swinging through New York on Switch.
 
 - 📺 480p, 720p and 1080p docked
 - 🖼️ 16:9 (wide or close view) or 4:3 with custom side borders, and a CRT filter
-- 🗣️ Voices in another language, and European editions recognised
+- 🗣️ Voices in another language, and the European editions (now the French, German and Spanish disc too)
 - 🔄 **New in 0.4.0:** updates itself from the debug menu, and Switch button layout
 
 **[⬇️ Download](https://github.com/SantiBros/SpiderMan2-2004-NX/releases/latest)** · **[📖 Install guide](https://github.com/SantiBros/SpiderMan2-2004-NX#how-to-install)**
@@ -75,6 +75,37 @@ The original Xbox game, swinging through New York on Switch.
 </td>
 </tr>
 </table>
+
+### 🎸 New: [Pepperland NX, The Beatles: Rock Band (Xbox 360) for Switch](https://github.com/SantiBros/Pepperland-NX)
+
+<a href="https://github.com/SantiBros/Pepperland-NX">
+<img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/banner.jpg" alt="Pepperland NX: The Beatles: Rock Band for Nintendo Switch" width="100%">
+</a>
+
+[![Release](https://img.shields.io/github/v/release/SantiBros/Pepperland-NX?style=flat-square&color=FF6A2B&label=latest)](https://github.com/SantiBros/Pepperland-NX/releases)
+[![Downloads](https://img.shields.io/github/downloads/SantiBros/Pepperland-NX/total?style=flat-square&color=2b2f38)](https://github.com/SantiBros/Pepperland-NX/releases)
+[![Stars](https://img.shields.io/github/stars/SantiBros/Pepperland-NX?style=flat-square&color=2b2f38)](https://github.com/SantiBros/Pepperland-NX/stargazers)
+
+My newest port, and the first one at **1.0**: the 2009 music game, made from its Xbox 360 version. Its PowerPC code is
+translated ahead of time for the Switch and drawn by a native Vulkan renderer.
+
+- 🎸 Guitar and bass on a controller: frets on the shoulder buttons, Auto Strum, whammy on the right stick
+- 🎮 Your own button layout, set in the game's menu, and HD Rumble on every note
+- ⚙️ A Settings menu in the game's own style: frame rate, 3D resolution, brightness, volume, language and controls
+- 🌍 The game's five languages, your Switch profile's name as the player name, and shaders kept between sessions
+- 🔄 Updates itself from inside the game, and installs from your phone with the installer page
+
+<table>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/screenshots/studio.jpg" alt="The band playing on a TV studio stage, captured on a Switch Lite"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/screenshots/club.jpg" alt="The band on a small club stage, captured on a Switch Lite"></td>
+</tr>
+</table>
+
+<sub>Captured on a Switch Lite. You need your own copy of the Xbox 360 game.</sub>
+
+**[⬇️ Download](https://github.com/SantiBros/Pepperland-NX/releases)** · **[🌐 Installer page](https://santibros.github.io/Pepperland-NX/)** · **[📖 Install guide](https://github.com/SantiBros/Pepperland-NX#how-to-install)**
+
 
 ## 🧰 My homebrew tools
 
@@ -123,6 +154,7 @@ Install and manage Persona mods **right on the Switch**: no PC, no CriPakTools, 
 | 🏎️ [NFS Most Wanted 2012](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch) | Android | ![v](https://img.shields.io/github/v/release/SantiBros/NFSMostWanted2012-Android-Switch?style=flat-square&color=FF6A2B&label=) | 🟢 Playable, in active development |
 | 🕷️ [Spider-Man 2](https://github.com/SantiBros/SpiderMan2-2004-NX) | Original Xbox (2004) | ![v](https://img.shields.io/github/v/release/SantiBros/SpiderMan2-2004-NX?style=flat-square&color=FF6A2B&label=) | 🟢 Playable, in active development |
 | 🃏 [Compendium](https://github.com/SantiBros/Compendium-NX) | Persona 5 Royal (Switch) mods | ![v](https://img.shields.io/github/v/release/SantiBros/Compendium-NX?include_prereleases&style=flat-square&color=FF6A2B&label=) | 🟡 Testing: most Switch mods on GameBanana install |
+| 🎸 [Pepperland NX](https://github.com/SantiBros/Pepperland-NX) | Xbox 360 (2009) | ![v](https://img.shields.io/github/v/release/SantiBros/Pepperland-NX?style=flat-square&color=FF6A2B&label=) | 🟢 1.0: first public release |
 | ❓ Next port | Coming soon | | 🔜 In the works |
 
 ## 📰 Latest releases
@@ -141,11 +173,12 @@ Install and manage Persona mods **right on the Switch**: no PC, no CriPakTools, 
 
 ![C++](https://img.shields.io/badge/C++-2b2f38?style=flat-square&logo=cplusplus&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL_/_GLSL-2b2f38?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-2b2f38?style=flat-square&logo=vulkan&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-2b2f38?style=flat-square&logo=cmake&logoColor=white)
 ![devkitPro](https://img.shields.io/badge/devkitPro_/_libnx-2b2f38?style=flat-square)
 ![Atmosphère](https://img.shields.io/badge/Atmosph%C3%A8re-2b2f38?style=flat-square)
 
-Reverse engineering, CPU recompilation, graphics translation, game file formats like CPK, and a lot of testing on real hardware. 🔍
+Reverse engineering, CPU recompilation (x86 and PowerPC), graphics translation to Vulkan, game file formats like CPK, and a lot of testing on real hardware. 🔍
 
 ## 📊 GitHub stats
 
@@ -168,7 +201,7 @@ Reverse engineering, CPU recompilation, graphics translation, game file formats 
 
 ## 🔜 What's next
 
-More ports are on the way, and Compendium is growing toward more Persona games! ⭐ Star and 👀 watch the repos to get notified about new releases.
+More ports are on the way, Pepperland keeps improving after 1.0, and Compendium is growing toward more Persona games! ⭐ Star and 👀 watch the repos to get notified about new releases.
 
 ## 🐛 Found a bug?
 
@@ -210,6 +243,7 @@ Llevo juegos clásicos a Nintendo Switch como ports homebrew gratuitos y de cód
 
 - 🏎️ **[NFS Most Wanted 2012 (Android)](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/blob/main/README.es.md)**
 - 🕷️ **[Spider-Man 2 (Xbox, 2004)](https://github.com/SantiBros/SpiderMan2-2004-NX/blob/main/README.es.md)**
+- 🎸 **[Pepperland NX: The Beatles: Rock Band (Xbox 360)](https://github.com/SantiBros/Pepperland-NX/blob/main/README.es.md)**, ¡mi port más nuevo y el primero en llegar a la 1.0!
 
 Y también hago herramientas para la Switch:
 

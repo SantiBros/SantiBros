@@ -10,9 +10,10 @@ import urllib.request
 OWNER = os.environ.get("OWNER", "SantiBros")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 README = "README.md"
-EMOJI = {"nfsmostwanted2012-android-switch": "🏎️", "spiderman2-2004-nx": "🕷️", "compendium-nx": "🃏"}
+EMOJI = {"nfsmostwanted2012-android-switch": "🏎️", "spiderman2-2004-nx": "🕷️", "compendium-nx": "🃏", "pepperland-nx": "🎸"}
 NAMES = {"nfsmostwanted2012-android-switch": "NFS Most Wanted 2012 (Android)",
          "compendium-nx": "Compendium (Persona mods)",
+         "pepperland-nx": "Pepperland NX (The Beatles: Rock Band)",
          "spiderman2-2004-nx": "Spider-Man 2 (Xbox)"}
 START, END = "<!-- RELEASES:START -->", "<!-- RELEASES:END -->"
 
