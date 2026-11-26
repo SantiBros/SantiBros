@@ -225,7 +225,10 @@ you can support it on Ko-fi. It helps me keep my projects updated and make new o
 A huge thank you to everyone who supports my work on Ko-fi. You help keep every port and tool free!
 
 <!-- SUPPORTERS:START -->
-<sub>No supporters yet. Be the first! ☕ Your name will appear here (only if you want it to).</sub>
+- 🎮 **Paolo Gamereke & MEMES™**: the very first supporter!
+- 💌 A supporter who prefers to stay anonymous
+
+Thank you both! ❤️
 <!-- SUPPORTERS:END -->
 
 <sub>Supported me and want your name here, or want it removed? Send me a message on Ko-fi.</sub>
