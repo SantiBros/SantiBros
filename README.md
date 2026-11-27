@@ -97,12 +97,16 @@ translated ahead of time for the Switch and drawn by a native Vulkan renderer.
 
 <table>
 <tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/screenshots/studio.jpg" alt="The band playing on a TV studio stage, captured on a Switch Lite"></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/screenshots/club.jpg" alt="The band on a small club stage, captured on a Switch Lite"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/clips/cavern.webp" alt="A few seconds of a song at the Cavern Club, captured on a Switch Lite"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/screenshots/ed-sullivan-band.jpg" alt="The band on the Ed Sullivan Show's stage, captured on a Switch Lite"></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/screenshots/budokan-drums.jpg" alt="The drummer at Budokan, captured on a Switch Lite"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/SantiBros/Pepperland-NX/main/docs/images/screenshots/abbey-road.jpg" alt="The band recording at Abbey Road, captured on a Switch Lite"></td>
 </tr>
 </table>
 
-<sub>Captured on a Switch Lite. You need your own copy of the Xbox 360 game.</sub>
+<sub>Real gameplay captured on a Switch Lite: the Cavern Club, the Ed Sullivan Show, Budokan and Abbey Road. You need your own copy of the Xbox 360 game.</sub>
 
 **[⬇️ Download](https://github.com/SantiBros/Pepperland-NX/releases)** · **[🌐 Installer page](https://santibros.github.io/Pepperland-NX/)** · **[📖 Install guide](https://github.com/SantiBros/Pepperland-NX#how-to-install)**
 
